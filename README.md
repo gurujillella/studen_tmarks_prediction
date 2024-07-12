@@ -1,1 +1,1 @@
-# studen_tmarks_prediction
+# student_marks_prediction
